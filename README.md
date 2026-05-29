@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Cristian
 
-<!--
-**Dignasus/Dignasus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudio Analista Programador en INACAP. Me enfoco en la lógica detrás del software, la arquitectura de sistemas y en asegurar que las bases de un proyecto estén sólidas antes de empezar a programar.
 
-Here are some ideas to get you started:
+Tecnologías y conocimientos:
+* Backend y Datos: Python (Pandas, Matplotlib), bases de datos relacionales con SQL (Oracle, SQL Server) y no relacionales con MongoDB.
+* Frontend: HTML, CSS, JavaScript y control de versiones con Git.
+* Desarrollo de Escritorio: Tkinter para la creación de interfaces y sistemas locales.
+* Arquitectura: Diseño de sistemas con UML y BPMN.
+* Seguridad: Fundamentos de seguridad informática y uso de librerías como bcrypt para la protección de datos y contraseñas.
+* Hardware y Sistemas: Fundamentos de hardware y software, complementado con mi interés práctico por el mantenimiento y armado de PCs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sobre mi forma de trabajo:
+* Estoy acostumbrado a trabajar bajo metodologías ágiles, donde todo el equipo asume responsabilidades.
+
+Contacto:
+* [Mi LinkedIn](URL_DE_TU_LINKEDIN)
+* [Mi Correo](cristian.millaqueo02@inacapmail.cl)
