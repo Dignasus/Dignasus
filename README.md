@@ -8,6 +8,7 @@ Tecnologías y conocimientos:
 * Desarrollo de Escritorio: Tkinter para la creación de interfaces y sistemas locales.
 * Arquitectura: Diseño de sistemas con UML y BPMN.
 * Seguridad: Fundamentos de seguridad informática y uso de librerías como bcrypt para la protección de datos y contraseñas.
+* Testing y QA:** Pruebas dinámicas de caja negra, análisis de vulnerabilidades web (DevTools, LocalStorage) y diseño de planes de prueba.
 * Hardware y Sistemas: Fundamentos de hardware y software, complementado con mi interés práctico por el mantenimiento y armado de PCs.
 
 Sobre mi forma de trabajo:
